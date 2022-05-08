@@ -1,0 +1,106 @@
+close American limited edition gate
+close door
+close formless box
+close type 1 box
+drop American limited edition keycard
+drop broom
+drop cloak
+drop formless passkey
+drop shirt
+drop teacup
+drop type 1 keycard
+examine American limited edition gate
+examine American limited edition keycard
+examine broom
+examine cloak
+examine door
+examine formless box
+examine formless passkey
+examine shirt
+examine table
+examine teacup
+examine type 1 box
+examine type 1 keycard
+go east
+go north
+go south
+go west
+insert American limited edition keycard into formless box
+insert American limited edition keycard into type 1 box
+insert broom into formless box
+insert broom into type 1 box
+insert cloak into formless box
+insert cloak into type 1 box
+insert formless passkey into formless box
+insert formless passkey into type 1 box
+insert shirt into formless box
+insert shirt into type 1 box
+insert teacup into formless box
+insert teacup into type 1 box
+insert type 1 keycard into formless box
+insert type 1 keycard into type 1 box
+inventory
+lock American limited edition gate with American limited edition keycard
+lock American limited edition gate with formless passkey
+lock American limited edition gate with type 1 keycard
+lock door with American limited edition keycard
+lock door with formless passkey
+lock door with type 1 keycard
+lock formless box with American limited edition keycard
+lock formless box with formless passkey
+lock formless box with type 1 keycard
+lock type 1 box with American limited edition keycard
+lock type 1 box with formless passkey
+lock type 1 box with type 1 keycard
+look
+open American limited edition gate
+open door
+open formless box
+open type 1 box
+put American limited edition keycard on table
+put broom on table
+put cloak on table
+put formless passkey on table
+put shirt on table
+put teacup on table
+put type 1 keycard on table
+take American limited edition keycard
+take American limited edition keycard from formless box
+take American limited edition keycard from table
+take American limited edition keycard from type 1 box
+take broom
+take broom from formless box
+take broom from table
+take broom from type 1 box
+take cloak
+take cloak from formless box
+take cloak from table
+take cloak from type 1 box
+take formless passkey
+take formless passkey from formless box
+take formless passkey from table
+take formless passkey from type 1 box
+take shirt
+take shirt from formless box
+take shirt from table
+take shirt from type 1 box
+take teacup
+take teacup from formless box
+take teacup from table
+take teacup from type 1 box
+take type 1 keycard
+take type 1 keycard from formless box
+take type 1 keycard from table
+take type 1 keycard from type 1 box
+unlock American limited edition gate with American limited edition keycard
+unlock American limited edition gate with formless passkey
+unlock American limited edition gate with type 1 keycard
+unlock door with American limited edition keycard
+unlock door with formless passkey
+unlock door with type 1 keycard
+unlock formless box with American limited edition keycard
+unlock formless box with formless passkey
+unlock formless box with type 1 keycard
+unlock type 1 box with American limited edition keycard
+unlock type 1 box with formless passkey
+unlock type 1 box with type 1 keycard

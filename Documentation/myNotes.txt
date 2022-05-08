@@ -1,0 +1,20 @@
+
+# Requirements:
+
+  - sudo apt install -y build-essential libffi-dev python3-dev curl wget git
+  - pip3 install textworld
+
+# Steps:
+
+  1. tw-make = make
+     - example: tw-make custom --world-size 5 --nb-objects 10 --quest-length 5 --seed 1234 --output tw_games/custom_game.z8
+
+  2. tw-play = play
+     - intuitive and very simple to execute: tw-play tw_games/custom_game.z8
+
+  3. tw-view = view
+     - apt install -y xserver-xorg xorg openbox xfce4-terminal thunar xfce4-settings   <- for startx = openbox or directly xfce4
+     - apt install graphviz graphviz-dev firefox-esr                                   <- for graphviz library and webbrowser
+     - pip3 install networkx[default,extra] plotly                                     <- for tw-view show
+     -
+     - tw-view tw_games/custom_game.z8
